@@ -1,5 +1,5 @@
 {
-  "vehicles": [
+  "vehicles": {
       "poiList": [
           {
               "id": 555331,
@@ -272,7 +272,7 @@
               "heading": 186.20151986669813
           }
       ]
-  ],
+  },
   "profile": {
     "name": "Profile name"
   }
