@@ -43,7 +43,7 @@
                   "latitude": 53.62332242667557,
                   "longitude": 9.78534646742659
               },
-              "fleetType": "TAXI",
+              "fleetType": "OTHER",
               "heading": 121.15907095883504
           },
           {
@@ -79,7 +79,7 @@
                   "latitude": 53.51245615680742,
                   "longitude": 9.849874135052596
               },
-              "fleetType": "TAXI",
+              "fleetType": "OTHER",
               "heading": 102.09276649563914
           },
           {
@@ -124,7 +124,7 @@
                   "latitude": 53.43742171013724,
                   "longitude": 9.762849707730577
               },
-              "fleetType": "TAXI",
+              "fleetType": "OTHER",
               "heading": 324.5493066899728
           },
           {
@@ -214,7 +214,7 @@
                   "latitude": 53.47736465516962,
                   "longitude": 9.953981846539623
               },
-              "fleetType": "TAXI",
+              "fleetType": "OTHER",
               "heading": 58.96326929288009
           },
           {
@@ -268,7 +268,7 @@
                   "latitude": 53.45100271278071,
                   "longitude": 9.900751261416046
               },
-              "fleetType": "POOLING",
+              "fleetType": "OTHER",
               "heading": 186.20151986669813
           }
       ]
